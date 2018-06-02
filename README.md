@@ -1,6 +1,6 @@
 # GCD-Server
 
-A simple web server built with rust that calculates the greatest common denominator between numbers
+A simple web server built with rust that calculates the greatest common denominator between numbers.
 
 #### To run:
 
